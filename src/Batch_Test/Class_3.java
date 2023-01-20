@@ -19,6 +19,7 @@ public class Class_3 {
     @Test
     public void tc9() {
     	Reporter.log("running tc9",true);
+        System.out.println("github succesfully work")
 
 }
 
